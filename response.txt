@@ -1,0 +1,2003 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <link rel="stylesheet" href="http://www.smzdm.com/resources/public/css/icon.css?v=2017032901" type="text/css" />
+    <!--[if !IE]><!-->
+    <link rel="stylesheet" href="http://www.smzdm.com/resources/public/css/icon_notIE.css?v=2017032901" type="text/css" />
+    <!--<![endif]-->
+    <link rel="stylesheet" href="http://www.smzdm.com/resources/public/css/navBar.css?v=2017032901" type="text/css" />
+    <link rel="stylesheet" href="http://post.smzdm.com/resources/css/common.css?v=2017032901" type="text/css" />
+    <link rel="stylesheet" href="http://post.smzdm.com/resources/css/popLogin.css?v=2017032901" type="text/css" />
+    <link rel="stylesheet" href="http://post.smzdm.com/resources/css/post.css?v=2017032901" type="text/css" />
+    <link rel="stylesheet" href="http://post.smzdm.com/resources/css/comments.css?v=2017032901" type="text/css" />
+
+    <link rel="stylesheet" href="http://post.smzdm.com/resources/css/gratuity.css?v=2017032901" type="text/css" />
+
+    <link rel="stylesheet" href="http://post.smzdm.com/resources/css/special-purpose.css?v=2017032901" type="text/css" />
+    <link rel="stylesheet" href="http://res.smzdm.com/pc/card/card.min.css" type="text/css" /><!--卡片样式-->
+
+
+    <script type="text/javascript" src="http://post.smzdm.com/resources/public/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="http://post.smzdm.com/resources/js/perfect-scrollbar.js"></script>
+    <script type="text/javascript">
+        navbar_channel_id = 11;
+        is_hide_login_button = 0;
+    </script>
+                    <script type="text/javascript"> var zhiyou_open = 1; </script>
+        <script type="text/javascript" src="http://zhiyou.smzdm.com/resources/js/userbase.1.0.min.js?2017032901"></script>
+        <script type="text/javascript" src="http://res.smzdm.com/js/ads.js?2017032901"></script>
+    <script type="text/javascript" src="http://post.smzdm.com/resources/js/main.js?v=2017032901"></script>
+    <!--[if lt IE 9]>
+    <script src="http://www.smzdm.com/resources/public/js/html5.js?v=20150408"></script>
+    <link rel="stylesheet" href="http://res.smzdm.com/resources/public/css/ieHack.css" type="text/css" />
+    <![endif]-->
+
+    <meta name="applicable-device" content="pc">
+    <meta property="og:type" content="webpage" />
+    <meta property="og:url" content="http://post.smzdm.com/" />
+    <meta property="og:title" content="什么值得买_值客原创 | 开箱晒物_购物攻略_消费主张分享" />
+    <meta property="og:image" content="http://res.smzdm.com/images/smzdm_210_125.png" />
+    <meta property="og:description" content="什么值得买的值客原创频道，由晒物广场和经验盒子合并而来，新值客原创频道分为开箱晒物、使用评测、购物攻略、消费知识、摄影旅游、生活记录等六个板块，是众多值友分享消费主张、获取消费经验知识的互动频道。" />
+    <meta name="weibo:webpage:create_at" content="" />
+    <meta name="weibo:webpage:update_at" content="" />
+    <meta name="mobile-agent" content="format=html5;url=http://post.m.smzdm.com/" />
+        <meta property="og:author" content="" />
+            <meta property="og:release_date" content=""/>
+            <meta property="og:bbs:replay" content=""/>
+        <!--meta add-->
+    
+    <title>什么值得买_值客原创 | 开箱晒物_购物攻略_消费主张分享</title>
+    <meta name="keywords" content="值客原创,什么值得买"/>
+    <meta name="description" content="什么值得买的值客原创频道，由晒物广场和经验盒子合并而来，新值客原创频道分为开箱晒物、使用评测、购物攻略、消费知识、摄影旅游、生活记录等六个板块，是众多值友分享消费主张、获取消费经验知识的互动频道。"/>
+    <meta name="apple-itunes-app" content="app-id=616615003"/>
+    <!--[if IE 7]>
+      <style type=”text/css”>
+      .blFormBox .wantItem{position: initial;}
+      </style>
+    <![endif]-->
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+//先加载ads.js
+var adBlockStatus=''; //开始判断
+if(typeof(CanRunAds) != "undefined" && CanRunAds == true) {
+    adBlockStatus= '没有屏蔽';
+}else{
+    adBlockStatus='被屏蔽了';
+};
+</script>
+<script>
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9b7ac3d38f30fe89ff0b8a0546904e58' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</head>
+<body >
+<script>
+var cookie_user = '';
+var temp, reg = new RegExp("(^| )user=([^;]*)(;|$)");
+if (temp = document.cookie.match(reg)) {
+    cookie_user = unescape(temp[2]);
+}
+var arr = cookie_user.split('|');
+if (arr[1]) {
+    var user_id = arr[1];
+} else {
+    var user_id = "";
+}
+dataLayer = [{
+    'userId':user_id,
+    'adBlockStatus':adBlockStatus,
+}];
+    function gtmAddToCart(data){
+        if(typeof(data)=='undefined' || typeof(data.name)=='undefined'){
+            return true ;
+        }
+        dataLayer.push({
+            'event': 'addToCart',
+            'ecommerce': {
+                'currencyCode': 'CNY',
+                'add': {
+                    'products': [{
+                        'name': data.name,
+                        'id':  data.id,
+                        'price': data.price,
+                        'brand': data.brand,
+                        'category': data.category,
+                        'dimension12':data.mall,
+                        'metric1': data.metric1,
+                        'dimension10': data.dimension10,
+                        'dimension9': data.dimension9,
+                        'dimension11': data.dimension11,
+                        'dimension20': data.dimension20,
+                        'dimension25': data.dimension25,
+                        'dimension64':"yuanchuang",
+                        'quantity': 1
+                  }]
+                }
+            }
+        });
+    }
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P6RFTX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=w.location.search.match(/55gtmpreview=1/)?
+'//www.googletagmanager.com/gtm.js?id='+i+dl:'http://res-ga.smzdm.com/gtm.js?id=' + i + dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6RFTX');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+var browse_edition = getCookie("browse_edition");
+if ("web" != browse_edition) {
+    var ua = navigator.userAgent.toLowerCase();
+    if (/iphone|ipod|android|windows phone|blackberry/.test(ua)) {
+                    this.location = 'http://post.m.smzdm.com/';
+            }
+}
+</script>
+
+<!--header-->
+<header>
+    <div class="navBarWrap no_fixed">
+    <!--navBarWrap-->
+    <style>
+/* New图标 */
+.nav-list li.channel-new {
+  position: relative; }
+  .nav-list li.channel-new:after {
+    content: 'N';
+    position: absolute;
+    right: -6px;
+    top: 1px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    line-height: 14px;
+    background-color: #f04848;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+    color: #fff;
+    z-index: 10; }
+
+.nav-list > .channel-new:hover:after {
+  display: none; }
+</style>
+<div id="global-nav" class="sub-channel">
+    <div class="nav-inner z-clearfix">
+        <nav>
+            <ul class="nav-list">
+                <li ><a href="http://www.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'首页'});">首页</a></li>
+                <li>
+                <a  href="http://www.smzdm.com/jingxuan/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'精选'});">精选</a>
+                </li>
+                <li>
+                    <a  href="http://faxian.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'好价·发现'});">好价·发现</a>
+                    <a  href="http://www.smzdm.com/youhui/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'国内'});">国内</a>
+                    <a  href="http://haitao.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'海淘'});">海淘</a>
+                    <a  href="http://2.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'闲值'});">闲值</a>
+                </li>
+                <li>
+                    <a  class="current"  href="http://post.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'好文·原创'});">好文·原创</a>
+                    <a  href="http://news.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'资讯'});">资讯</a>
+                </li>
+                <li >
+                    <a href="https://test.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'好物·众测'});">好物·众测</a>
+                </li>
+                                 <li >
+                    <a href="http://wiki.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'百科'});">百科<span class="arrow-down"></span></a>
+                    <ul class="sub-nav">
+                        <li><a href="http://wiki.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'商品百科'});">商品百科</a></li>
+                        <li><a href="http://www.smzdm.com/fenlei/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'品类导航'});">品类导航</a></li>
+                        <li><a href="http://pinpai.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'品牌导航'});">品牌导航</a></li>
+                        <li><a href="http://www.smzdm.com/mall/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'商家导航'});">商家导航</a></li>
+                    </ul>
+                </li>
+                                <li class="channel-new">
+                    <a href="javascript:void(0);">更多<span class="arrow-down"></span></a>
+                    <ul class="sub-nav">
+                        <li class="channel-new" ><a href="http://new.brand.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'新锐品牌'});">新锐品牌</a></li>
+                        <li><a href="http://duihuan.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'值友福利'});">值友福利</a></li>
+                        <li><a href="http://duihuan.smzdm.com/quan/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'优惠券'});">优惠券</a></li>
+                                                <li><a href="http://jr.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'金融'});">金融</a></li>
+                                                <li><a href="http://auto.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'汽车'});">汽车</a></li>
+                        <li><a href="http://lvyou.smzdm.com/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'旅游'});">旅游</a></li>
+                        <li><a href="http://www.smzdm.com/zhuanti/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'专题汇总'});">专题汇总</a></li>
+                        <li><a href="http://www.smzdm.com/push/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'应用中心'});">应用中心</a></li>
+                        <li><a href="http://www.smzdm.com/zhaopin/hot/" onclick="dataLayer.push({'event':'通用_频道导航','频道名':'招聘专区'});">招聘专区</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <div class="nav-controls">
+            <!-- 未登录的结构 -->
+            <span class="nav-logins">
+                <a href="javascript:void(0);" class="J_login_trigger">登录</a><span class="z-split"></span><a href="https://zhiyou.smzdm.com/user/register/mobile/">注册</a>
+            </span>
+            <ul class="control-list">
+            <li class="app-entry">
+                <a href="http://www.smzdm.com/push/">App下载</a>
+                <ul class="sub-nav">
+                    <li>
+                        <a href="http://www.smzdm.com/push/">
+                            <svg width="95" height="95">
+                            <image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="//res.smzdm.com/pc/v1.0/dist/img/embed/download.svg" src="//res.smzdm.com/pc/v1.0/dist/img/embed/download.png" width="95" height="95">
+                        </image></svg>
+                            <div>
+                                App 下载<br>领取5金币
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                </li>
+                <li class="submit-entry">
+                    <a href="javascript:void(0);">爆料投稿<span class="arrow-down"></span></a>
+                    <ul class="sub-nav">
+                        <li><a href="http://www.smzdm.com/baoliao/" target="_blank">优惠爆料</a></li>
+                        <li><a href="http://wiki.smzdm.com/create/" target="_blank">分享商品</a></li>
+                        <li><a href="http://post.smzdm.com/tougao/" target="_blank">原创投稿</a></li>
+                    </ul>
+                </li>
+                <li class="user-entry J_user_entry">
+                <a href="#"><span class="nav-username J_nav_username"></span><span class="arrow-down"></span></a>
+                    <ul class="sub-nav">
+                        <li><a href="http://zhiyou.smzdm.com/user/" target="_blank" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'个人中心'})">个人中心</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/guanzhu/main/" target="_blank" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的关注'})">我的关注</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/mypost/" target="_blank" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的原创'})">我的原创</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/submit/" target="_blank" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的爆料'})">我的爆料</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/wiki/" target="_blank" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的百科'})">我的百科</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/shoudaopinglun/" class="J_menu_comment" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的评论'})">我的评论</a></li>
+                        <li><a href="http://test.smzdm.com/user/zhongce/" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的众测'})">我的众测</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/message/" class="J_menu_message" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的消息'})">我的消息</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/favorites/youhui/" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的收藏'})">我的收藏</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/2/" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'我的闲值'})">我的闲值</a></li>
+                        <li><a href="http://zhiyou.smzdm.com/user/logout/" onclick="dataLayer.push({'event':'通用_个人中心导航','按钮名称':'退出登录'})">退出登录</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <div id="chief-notice" class="J_notice">
+                                <i class="icon-cross-lighter"></i>
+                                <a id="notice-message" class="J_notice_message" href="#"><em></em>条新消息</a>
+                <a id="notice-comment" class="J_notice_comment" href="#"><em></em>条新评论</a>
+            </div>
+        </div>
+    </div>
+</div>
+        <!--navBar end-->
+</div>
+<!--navBarWrap end-->
+    <div class="headerWrap">
+        <div class="logo_search clearfix" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+            <div class="logo">
+                <a href="http://www.smzdm.com/" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                    <img src="/resources/img/logo.png" alt="什么值得买">
+                    <meta itemprop="url" content="http://post.smzdm.com/resources/img/logo.png">
+                    <meta itemprop="width" content="172">
+                    <meta itemprop="height" content="65">
+                </a>
+            </div>
+            <meta itemprop="name" content="什么值得买-值客原创">
+             <div class="secondNav"><span><a href="http://post.smzdm.com/">值客原创</a></span></div>
+            <form class="form_search" id="searchform" method="get" action="http://search.smzdm.com/">
+                <input type="hidden" name="c" value="post">
+                <button type="submit" class="btn_search icon-search"><!--[if lt IE 8]>Go<![endif]--></button>
+                <input placeholder="6.18扫货秘籍" id="search" name="s" type="search" class="text_search" value=""/>
+            </form>
+            <input type="hidden" name="default_keywords" value="618看我的">
+             <a href="http://post.smzdm.com/tougao/" target="_blank" class="write-article" >
+                <i class="icon-xiepianyuanchuang"></i>写篇原创
+            </a>
+        </div>
+    </div>
+</header>
+    <!--section-->
+    <section class="wrap">
+        <!--原创商品分类-->
+        <ul class="channel-nav">
+    <li><a href="http://post.smzdm.com/" class="current"><i class="icon-yuanchuangshouye"></i>原创首页</a></li>    <li><a href="http://post.smzdm.com/shaiwu/" >
+                    <span class="line"></span><i class="icon-kaixiangshaiwu1"></i>开箱晒物</a></li>    <li><a href="http://post.smzdm.com/pingce/" >
+                    <span class="line"></span><i class="icon-shiyongpingce1"></i>使用评测</a></li>    <li><a href="http://post.smzdm.com/gonglve/" >
+                    <span class="line"></span><i class="icon-gouwugonglue1"></i>购物攻略</a></li>    <li><a href="http://post.smzdm.com/jilu/" >
+                    <span class="line"></span><i class="icon-shenghuojilu1"></i>生活记录</a></li>        <li><a href="http://zhiyou.smzdm.com/author/"><span class="line"></span><i class="icon-daren"></i>生活家</a></li>
+</ul>        <div class="top_Banner">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://s2.zdmimg.com/www/delivery/ajs.php':'http://s2.zdmimg.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=62");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div>
+        <!--原创商品分类 end-->
+        <!--double_eleven -->
+                <div class="db_eleven">
+            <!-- 原创滚动banner -->
+            <div class="slider single-item">
+                    <div>
+                <a
+                    onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'左1','文章标题':'雷克萨斯IS 200T F Sport首保后使用感受及海淘轮毂经历'})" class="slider-box"
+                    href="http://post.smzdm.com/p/546103/?promotion=1" target="_blank">
+                    <img src="http://eimg.smzdm.com/201706/02/5930d64c1ee3e7927.png" alt="" />
+                    <span class="slider-title-box">
+                        <em class="slider-bg"></em>
+                        <em class="slider-title">
+                            雷克萨斯IS 200T F Sport首保后使用感受及海淘轮毂经历                        </em>
+                    </span>
+                </a>
+            </div>
+                    <div>
+                <a
+                    onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'左2','文章标题':'99%的游客都不知道的泰国水上市场！美食多，游客少，就隐藏在曼谷'})" class="slider-box"
+                    href="http://post.smzdm.com/p/566153/?promotion=2" target="_blank">
+                    <img src="http://eimg.smzdm.com/201706/02/5930d4aba2fbf4610.png" alt="" />
+                    <span class="slider-title-box">
+                        <em class="slider-bg"></em>
+                        <em class="slider-title">
+                            99%的游客都不知道的泰国水上市场！美食多，游客少，就隐藏在曼谷                        </em>
+                    </span>
+                </a>
+            </div>
+                    <div>
+                <a
+                    onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'左3','文章标题':'Tiger5G谈数码 篇四十六：房租要交，桌面也要SHOW,一个租房党的桌面'})" class="slider-box"
+                    href="http://post.smzdm.com/p/564942/?promotion=3" target="_blank">
+                    <img src="http://eimg.smzdm.com/201706/02/5930d435e57918661.png" alt="" />
+                    <span class="slider-title-box">
+                        <em class="slider-bg"></em>
+                        <em class="slider-title">
+                            Tiger5G谈数码 篇四十六：房租要交，桌面也要SHOW,一个租房党的桌面                        </em>
+                    </span>
+                </a>
+            </div>
+                    <div>
+                <a
+                    onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'左4','文章标题':'Fujifilm富士 微单XF系列镜头选购宝典'})" class="slider-box"
+                    href="http://post.smzdm.com/p/559555/?promotion=4" target="_blank">
+                    <img src="http://eimg.smzdm.com/201706/02/5930d6009f8cc4318.png" alt="" />
+                    <span class="slider-title-box">
+                        <em class="slider-bg"></em>
+                        <em class="slider-title">
+                            Fujifilm富士 微单XF系列镜头选购宝典                        </em>
+                    </span>
+                </a>
+            </div>
+                    <div>
+                <a
+                    onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'左5','文章标题':'六一儿童节，这些8090后的童年回忆分分钟让你飙泪'})" class="slider-box"
+                    href="http://post.smzdm.com/p/564819/?promotion=5" target="_blank">
+                    <img src="http://eimg.smzdm.com/201706/01/592f80ac8221f2219.jpg" alt="" />
+                    <span class="slider-title-box">
+                        <em class="slider-bg"></em>
+                        <em class="slider-title">
+                            六一儿童节，这些8090后的童年回忆分分钟让你飙泪                        </em>
+                    </span>
+                </a>
+            </div>
+        </div>
+            <!-- 原创滚动banner end-->
+            <!-- 原创固定 banner -->
+            <div class="db_right_pic">
+                <a onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'右1','文章标题':'种草帖：宜家竟然有这么多值得买的宝宝好物'})" target="_blank" title="种草帖：宜家竟然有这么多值得买的宝宝好物" data-index="1" href="http://post.smzdm.com/p/558591/">
+                <img src="http://a.zdmimg.com/201705/27/59295b7984ae34564.jpg_d320.jpg">
+            </a>
+                <a onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'右2','文章标题':'本站首晒'})" target="_blank" title="本站首晒" data-index="2" href="http://post.smzdm.com/tag/%E6%9C%AC%E7%AB%99%E9%A6%96%E6%99%92/">
+                <img src="http://a.zdmimg.com/201706/02/5930e04ae1b601318.jpg_d320.jpg">
+            </a>
+                <a onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'右3','文章标题':'喝了无数杯咖啡失眠了无数夜晚，也许这是你见过的最省钱星巴克攻略'})" target="_blank" title="喝了无数杯咖啡失眠了无数夜晚，也许这是你见过的最省钱星巴克攻略" data-index="3" href="http://post.smzdm.com/p/557575/">
+                <img src="http://a.zdmimg.com/201706/02/5930e03a70c2f7075.jpg_d320.jpg">
+            </a>
+                <a onclick="dataLayer.push({'event':'原创首页_轮播图','位置':'右4','文章标题':'参与最新投稿活动  赢Ashford 50美金礼品卡'})" target="_blank" title="参与最新投稿活动  赢Ashford 50美金礼品卡" data-index="4" href="http://post.smzdm.com/p/564001/">
+                <img src="http://a.zdmimg.com/201706/02/5931312c9761a5550.jpg_d320.jpg">
+            </a>
+    </div>
+            <!-- 原创固定 banner end-->
+        </div>
+        <!--double_eleven end -->
+        
+        <!--screen-box-->
+        <div class="screen-box">
+            <span class="hot border-radius-2">HOT<em class="arrow-right"></em></span>
+            <!--原创配置的热门标签和热门分类-->
+            <div class="screen-tags">
+                <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'数码控'})" href="http://post.smzdm.com/fenlei/diannaoshuma/">
+                数码控            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'爱搞机'})" href="http://post.smzdm.com/fenlei/zhinengshouji/">
+                爱搞机            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'焕新家'})" href="http://post.smzdm.com/tag/装修/">
+                焕新家            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'有车党'})" href="http://post.smzdm.com/fenlei/qicheyongpin/">
+                有车党            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'育儿经'})" href="http://post.smzdm.com/tag/母婴/">
+                育儿经            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'去哪玩'})" href="http://post.smzdm.com/fenlei/lvyouchuxing/">
+                去哪玩            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'吃货们'})" href="http://post.smzdm.com/tag/美食/">
+                吃货们            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'刷卡姿势'})" href="http://post.smzdm.com/fenlei/xinyongka/">
+                刷卡姿势            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'海淘秘诀'})" href="http://post.smzdm.com/tag/海淘攻略/">
+                海淘秘诀            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'百科全书'})" href="http://post.smzdm.com/xilie/17639/ ">
+                百科全书            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'踏青游'})" href="http://post.smzdm.com/tag/%E8%8E%AB%E8%B4%9F%E5%A5%BD%E6%98%A5%E5%85%89/">
+                踏青游            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'抗雾霾'})" href="http://post.smzdm.com/tag/抗霾/">
+                抗雾霾            </a>
+        </div>            <!--原创配置的热门标签和热门分类 end-->
+            <!--原创一级商品分类-->
+            <div class="more-tags">
+    <span class="more-word">更多品类<i class="icon-down"></i></span>
+    <div class="more-tags-ul">
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'电脑数码'})" href="http://post.smzdm.com/fenlei/diannaoshuma/">
+                电脑数码            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'家用电器'})" href="http://post.smzdm.com/fenlei/jiayongdianqi/">
+                家用电器            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'运动户外'})" href="http://post.smzdm.com/fenlei/yundonghuwai/">
+                运动户外            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'服饰鞋包'})" href="http://post.smzdm.com/fenlei/fushixiebao/">
+                服饰鞋包            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'个护化妆'})" href="http://post.smzdm.com/fenlei/gehuhuazhuang/">
+                个护化妆            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'母婴用品'})" href="http://post.smzdm.com/fenlei/muyingyongpin/">
+                母婴用品            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'日用百货'})" href="http://post.smzdm.com/fenlei/riyongbaihuo/">
+                日用百货            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'食品保健'})" href="http://post.smzdm.com/fenlei/shipinbaojian/">
+                食品保健            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'礼品钟表'})" href="http://post.smzdm.com/fenlei/lipinzhongbiao/">
+                礼品钟表            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'图书音像'})" href="http://post.smzdm.com/fenlei/tushuyinxiang/">
+                图书音像            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'玩模乐器'})" href="http://post.smzdm.com/fenlei/wanmoyueqi/">
+                玩模乐器            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'办公设备'})" href="http://post.smzdm.com/fenlei/bangongshebei/">
+                办公设备            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'家居家装'})" href="http://post.smzdm.com/fenlei/jiajujiazhuang/">
+                家居家装            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'汽车消费'})" href="http://post.smzdm.com/fenlei/qicheyongpin/">
+                汽车消费            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'金融服务'})" href="http://post.smzdm.com/fenlei/jinronglvyou/">
+                金融服务            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'旅游出行'})" href="http://post.smzdm.com/fenlei/lvyouchuxing/">
+                旅游出行            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'文化娱乐'})" href="http://post.smzdm.com/fenlei/wenhuayule/">
+                文化娱乐            </a>
+                    <a onclick="dataLayer.push({'event':'原创首页_热门品类_标签','标签名':'房产置业'})" href="http://post.smzdm.com/fenlei/fangchanzhiye/">
+                房产置业            </a>
+            </div>
+</div>            <!--原创一级商品分类 end-->
+        </div>
+        <!--screen-box end-->
+
+                <!-- 原创今日最热 -->
+        <div class="hot-banner">
+    <div class="title-large">今日最热</div>
+    <div class="slider uneven">
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566456','文章标题':'摸着绳索过河--简约小窝搭建记 篇一：工欲善其事，必先利其器','位置':'详情_1'})" href="http://post.smzdm.com/p/566456/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201706/01/592fd8445a93c5190.jpg_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566456','文章标题':'摸着绳索过河--简约小窝搭建记 篇一：工欲善其事，必先利其器','位置':'详情_1'})" href="http://post.smzdm.com/p/566456/" target="_blank" class="item-title">
+                                                        <span class="first">
+                                1                            </span>
+                                                        摸着绳索过河--简约小窝搭建记 篇一：工欲善其事，必先利其器                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/566456/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>422</em>
+                            </a>
+                            <a id="collect_11_566456" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(566456,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>1986</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/3297928234/" target="_blank">
+                                        狂奔的稻子                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'562733','文章标题':'抓住自己的初心，自己参与房子设计的种种体会 篇二：关于卫生间','位置':'详情_2'})" href="http://post.smzdm.com/p/562733/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201706/01/59300e00567641297.jpg_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'562733','文章标题':'抓住自己的初心，自己参与房子设计的种种体会 篇二：关于卫生间','位置':'详情_2'})" href="http://post.smzdm.com/p/562733/" target="_blank" class="item-title">
+                                                        <span class="second">
+                                2                            </span>
+                                                        抓住自己的初心，自己参与房子设计的种种体会 篇二：关于卫生间                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/562733/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>279</em>
+                            </a>
+                            <a id="collect_11_562733" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(562733,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>1633</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/3772061527/" target="_blank">
+                                        一大碗蘑菇汤                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'563753','文章标题':'#体验家计划# 在顶级厨房里做大餐是怎样的感受？ - 欢乐颂 - 安迪的厨房全套厨电0距离体验','位置':'详情_3'})" href="http://post.smzdm.com/p/563753/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201705/25/59264ca9638002338.gif_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'563753','文章标题':'#体验家计划# 在顶级厨房里做大餐是怎样的感受？ - 欢乐颂 - 安迪的厨房全套厨电0距离体验','位置':'详情_3'})" href="http://post.smzdm.com/p/563753/" target="_blank" class="item-title">
+                                                        <span class="third">
+                                3                            </span>
+                                                        #体验家计划# 在顶级厨房里做大餐是怎样的感受？ - 欢乐颂 - 安迪的厨房全套厨电0距离体验                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/563753/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>318</em>
+                            </a>
+                            <a id="collect_11_563753" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(563753,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>506</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/8982803543/" target="_blank">
+                                        silencesky                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566445','文章标题':'也谈万能的ARIA2插件，兼谈联想newifi路由器离线下载百度云','位置':'详情_4'})" href="http://post.smzdm.com/p/566445/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201706/01/593017b95c8ee9333.jpg_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566445','文章标题':'也谈万能的ARIA2插件，兼谈联想newifi路由器离线下载百度云','位置':'详情_4'})" href="http://post.smzdm.com/p/566445/" target="_blank" class="item-title">
+                                                        也谈万能的ARIA2插件，兼谈联想newifi路由器离线下载百度云                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/566445/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>71</em>
+                            </a>
+                            <a id="collect_11_566445" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(566445,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>754</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/6194757446/" target="_blank">
+                                        风之纹章                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566635','文章标题':'全上海正宗的兰州牛肉面，掰掰手指头就数得过来','位置':'详情_5'})" href="http://post.smzdm.com/p/566635/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201706/02/5930cd8ae1a8b7283.gif_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566635','文章标题':'全上海正宗的兰州牛肉面，掰掰手指头就数得过来','位置':'详情_5'})" href="http://post.smzdm.com/p/566635/" target="_blank" class="item-title">
+                                                        全上海正宗的兰州牛肉面，掰掰手指头就数得过来                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/566635/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>140</em>
+                            </a>
+                            <a id="collect_11_566635" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(566635,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>443</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/9933498218/" target="_blank">
+                                        魔都食鉴局                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'564154','文章标题':'家庭妇男的洗晒之路 篇三：几种洗衣液的不严谨测试','位置':'详情_6'})" href="http://post.smzdm.com/p/564154/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201705/25/592674a35a8f4419.jpg_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'564154','文章标题':'家庭妇男的洗晒之路 篇三：几种洗衣液的不严谨测试','位置':'详情_6'})" href="http://post.smzdm.com/p/564154/" target="_blank" class="item-title">
+                                                        家庭妇男的洗晒之路 篇三：几种洗衣液的不严谨测试                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/564154/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>91</em>
+                            </a>
+                            <a id="collect_11_564154" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(564154,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>235</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/8265161764/" target="_blank">
+                                        NetYJ                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566944','文章标题':'一大波菜谱向你扑来 - 顶级厨房里的家常菜','位置':'详情_7'})" href="http://post.smzdm.com/p/566944/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201706/03/593195afeeb6b1987.jpg_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566944','文章标题':'一大波菜谱向你扑来 - 顶级厨房里的家常菜','位置':'详情_7'})" href="http://post.smzdm.com/p/566944/" target="_blank" class="item-title">
+                                                        一大波菜谱向你扑来 - 顶级厨房里的家常菜                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/566944/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>73</em>
+                            </a>
+                            <a id="collect_11_566944" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(566944,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>266</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/8982803543/" target="_blank">
+                                        silencesky                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+                        <!--one-->
+                <div>
+                    <div class="item-one">
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566686','文章标题':'自从用了这几个相机APP  我的朋友圈点赞数都为0','位置':'详情_8'})" href="http://post.smzdm.com/p/566686/" target="_blank" class="item-pic">
+                            <img src="http://a.zdmimg.com/201706/02/5931350596963688.png_c350.jpg" alt="" />
+                        </a>
+                        <a onclick="dataLayer.push({'event':'原创首页_今日最热','文章编号':'566686','文章标题':'自从用了这几个相机APP  我的朋友圈点赞数都为0','位置':'详情_8'})" href="http://post.smzdm.com/p/566686/" target="_blank" class="item-title">
+                                                        自从用了这几个相机APP  我的朋友圈点赞数都为0                        </a>
+                        <div class="item-bot">
+                            <a  href="http://post.smzdm.com/p/566686/#comments" class="comment" target="_blank">
+                                <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i>
+                                <em>56</em>
+                            </a>
+                            <a id="collect_11_566686" href="javascript:void(0);" class="fav"
+                               onclick="ajax_collect(566686,11,this);">
+                                <i class="icon-collect"><!--[if lt IE 8]>赞<![endif]--></i>
+                                <em>292</em>
+                                <span class="scoreAnimate">+1</span>
+                            </a>
+                                                                                                <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/1912009098/" target="_blank">
+                                        大阳                                    </a>
+                                                            
+                        </div>
+                    </div>
+                </div>
+                <!--one end-->
+            </div>
+</div>
+        <!-- 原创今日最热 end-->
+        
+        <!--post-title-box-->
+        <div class="post-title-box">
+            <div class="title-box-left index">
+                                    <span class="current">全部</span>|<a class="last" href="http://post.smzdm.com/jinghua/">精华</a>
+                            </div>
+                            <div class="title-box-right">
+                                            <span class="current">最新</span>|
+                        <a href="http://post.smzdm.com/hot_7/">周排行</a>|
+                        <a href="http://post.smzdm.com/hot_30/" >月排行</a>|
+                        <a href="http://post.smzdm.com/hot_all/" class="last">总排行</a>
+                    
+                </div>
+            
+        </div>
+        <!--post-title-box end-->
+
+        <!--原创首页列表-->
+        
+<div class="list-wrap">
+    <ul class="list-ul">
+
+                <li class="list" data-sum-collect="3" data-id="567092" timesort="1496484429" articleid="11_567092">
+            <a  href="http://post.smzdm.com/p/567092/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/5932746fed6fe2972.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>18:07<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567092/" target="_blank">
+                        奔跑吧，papa—— ASICS 亚瑟士 nimbus18 童鞋开箱                    </a>
+                </h2>
+                <p class="item-info">六一儿童节礼物送什么？这个问题是每位父母节日前都要考虑到的，前不久女儿说自己的nike毛毛虫鞋子有点紧了，一看发现脚长得真快啊，于是在<a href="http://pinpai.smzdm.com/765/" target="_blank">亚瑟士</a>天猫店看到正好在聚划算一双nimbus18的运动鞋，而自己之前也在<a href="http://pinpai.smzdm.com/2007/" target="_blank">亚马逊</a>上买过一双nimbus18，所以这次就直接拍下。...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567092/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>2</em>
+                </a>
+                <a id = "collect_11_567092" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567092,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>0</em>
+                </a>
+                <a id="love_rating_11_567092" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567092,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>1</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/8878241356/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/8878241356/56cc271018e6c-small.jpg" class="border-radius">
+                                    air318                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="15" data-id="567078" timesort="1496484311" articleid="11_567078">
+            <a  href="http://post.smzdm.com/p/567078/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/593285f929e842145.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>18:05<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567078/" target="_blank">
+                        小米（MI）小米电视4A 标准版 55英寸（L55M5-AZ）                    </a>
+                </h2>
+                <p class="item-info">购买理由天天看大家说索尼大法好，被诱惑了，计划定索尼（SONY）KD-55X7000D，看大妈历史价格4500左右，和预算也差不多，但是又看到很多人说索尼的55X7000D不是索尼自己产的，是贴牌的，要买索尼最好8500以上的，但是一看价格超出太多，正在犹豫时...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567078/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>8</em>
+                </a>
+                <a id = "collect_11_567078" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567078,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>2</em>
+                </a>
+                <a id="love_rating_11_567078" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567078,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>2</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/4822618391/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/4822618391/56cc213068f29-big.jpg" class="border-radius">
+                                    海水黑黑                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="2" data-id="567036" timesort="1496484039" articleid="11_567036">
+            <a  href="http://post.smzdm.com/p/567036/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/593246a75dccc728.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>18:00<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567036/" target="_blank">
+                        那一瞬间的惊艳——红雀govibe sharps                    </a>
+                </h2>
+                <p class="item-info">唉。。。。这几天网上搞特价，身边朋友也都是在买买买，昨日朋友联系我，说它买了个不错的小玩意，喊我去听，听了后，一听倾心，有时候这些HIFI影音器材，听过后才能感受到它的美，才能感受发现自己原系统的各种不足。之前的播放器是老人家的DP100，老人家最新出的HIF...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567036/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>0</em>
+                </a>
+                <a id = "collect_11_567036" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567036,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>1</em>
+                </a>
+                <a id="love_rating_11_567036" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567036,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>1</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/5107672018/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/5107672018/56daa3528f5f8-small.jpg" class="border-radius">
+                                    专业卖萌                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="5" data-id="567094" timesort="1496482976" articleid="11_567094">
+            <a  href="http://post.smzdm.com/p/567094/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/59327f3e994874958.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>17:42<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567094/" target="_blank">
+                        跟着大妈走，一生都剁手 篇六：Calvin Klein 男鞋美国购买转运晒单                    </a>
+                </h2>
+                <p class="item-info">   今年天朝空气质量变好，没有折腾<a href="http://www.smzdm.com/fenlei/kongqijinghuaqi/" target="_blank">空气净化器</a>和<a href="http://www.smzdm.com/fenlei/xinfengxitong/" target="_blank">新风系统</a>了，没事刷刷张大妈，狗东和<a href="http://pinpai.smzdm.com/2007/" target="_blank">亚马逊</a>中国买买买，直到看到这个新闻   只能感叹天朝人民智商太高，啥子赚钱法子都想的出来。算了，自力更生，学习海淘。去年在美亚和日亚买了几单，都是直邮的，感觉类别还是有点少，想试...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567094/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>1</em>
+                </a>
+                <a id = "collect_11_567094" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567094,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>4</em>
+                </a>
+                <a id="love_rating_11_567094" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567094,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>0</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/5855414711/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/5855414711/583f83d752d12-small.jpg" class="border-radius">
+                                    红酒配枭雄                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="18" data-id="567071" timesort="1496482935" articleid="11_567071">
+            <a  href="http://post.smzdm.com/p/567071/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/59327b09994307891.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>17:42<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567071/" target="_blank">
+                        守护姨夫的微笑-索尼sony-100abn耳机开箱                    </a>
+                </h2>
+                <p class="item-info">购买历程又到了京东一年一度的618，刚好我去年618剁手的京东白条还完，所以又可以愉快开始新一轮的剁手。三年前买过一个<a href="http://www.smzdm.com/fenlei/toudaishierji/" target="_blank">头戴式耳机</a>，<a href="http://pinpai.smzdm.com/1565/" target="_blank">铁三角</a>m50x。最近发现耳罩的皮子裂了，加之之前入手的beats录音师2.0实在true music。于是有了买一个新的头戴式<a href="http://www.smzdm.com/fenlei/erji/" target="_blank">耳机</a>...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567071/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>10</em>
+                </a>
+                <a id = "collect_11_567071" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567071,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>5</em>
+                </a>
+                <a id="love_rating_11_567071" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567071,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>3</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                                    <span class="nickname ellipsis">
+                        <img src="http://res.smzdm.com/images/header/default_small.png" class="border-radius">
+                        <em class="grey">匿名用户</em>
+                    </span>
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="118" data-id="565884" timesort="1496482730" articleid="11_565884">
+            <a  href="http://post.smzdm.com/p/565884/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201705/31/592e1ac9c7caa8160.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>17:38<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/565884/" target="_blank">
+                        家是生活的『容器』 篇十六：清包装修入住两周年谈谈装修和使用中的缺憾                    </a>
+                </h2>
+                <p class="item-info">一、写作目的写这篇文章的目的是为了总结之前的装修经验和费用清单，因为又购买了一套新房，所以要将自己现居住的这套房子选择清包装修的原因、装修的过程以及装修费用总结一下，然后谈一谈清包装修入住后在使用中的缺憾，将当时购买和使用的材料及工具列个清单，为下一次的新房装...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/565884/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>10</em>
+                </a>
+                <a id = "collect_11_565884" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(565884,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>90</em>
+                </a>
+                <a id="love_rating_11_565884" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(565884,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>8</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/2650925806/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/2650925806/57558f905bdc4-small.jpg" class="border-radius">
+                                    sabayonlinux                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="12" data-id="567022" timesort="1496482226" articleid="11_567022">
+            <a  href="http://post.smzdm.com/p/567022/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/593238e52c78e7652.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>17:30<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567022/" target="_blank">
+                        欧克利黑科技？Prizm镜片到手实测                    </a>
+                </h2>
+                <p class="item-info">  也许是启蒙读物的原因，lz一直对万物运作的原理特别感兴趣（是不是太装逼了）所以小时候经常抓牢爸妈问这问那，也经常问到两人不耐烦而吃顿男女混合双打·······也是小时候，初次学骑车就是骑得老姐淘汰下来的没有辅助轮的小车，好在家旁边就有个中学所以练车时可以撒...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567022/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>6</em>
+                </a>
+                <a id = "collect_11_567022" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567022,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>2</em>
+                </a>
+                <a id="love_rating_11_567022" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567022,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>3</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/4858395573/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/4858395573/5760221245a35-small.jpg" class="border-radius">
+                                    tarse                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="38" data-id="567055" timesort="1496480977" articleid="11_567055">
+            <a  href="http://post.smzdm.com/p/567055/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/59325512371c67288.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>17:09<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567055/" target="_blank">
+                        夏日解暑圣品——自制烧仙草                    </a>
+                </h2>
+                <p class="item-info">购买理由前段时间公司发了端午慰问品，一箱龟苓膏。 周末的时候刚好亲戚聚会，于是就把那箱龟苓膏拿出来给小孩子们分着吃了，自己反而没有吃到。突然想起小时候在炎热的夏天下午，爸妈都会出去买上一块仙草冻，用勺子切碎之后再浇上<a href="http://www.smzdm.com/fenlei/fengchanpin/" target="_blank">蜂蜜</a>，拌一拌就是一道完美的夏日午后<a href="http://www.smzdm.com/fenlei/binggangaodian/" target="_blank">甜点</a>。读书...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567055/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>4</em>
+                </a>
+                <a id = "collect_11_567055" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567055,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>26</em>
+                </a>
+                <a id="love_rating_11_567055" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567055,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>5</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/7690695597/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/7690695597/5931085a1c3d7-small.jpg" class="border-radius">
+                                    一横妈咪                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="1" data-id="36746" timesort="1496480400" articleid="7_36746">
+            <a  href="http://test.smzdm.com/pingce/p/36746/" class="item-pic" target="_blank">
+                <img src="http://qnam.smzdm.com/201705/17/591c3a2687e32957.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>17:00<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://test.smzdm.com/pingce" class="best">众测</a>
+                                        <a  href="http://test.smzdm.com/pingce/p/36746/" target="_blank">
+                        600块在豌豆公主买了什么？                    </a>
+                </h2>
+                <p class="item-info"><strong>写在文前：在生日月正好收到了张大妈和豌豆公主爸爸给的600块试用资格，真是惊喜万分！爱吃的女生果然运气都不会太差~，谢谢各位大大的厚爱，比心。</strong>在我绞尽脑汁，刮肠搜肚了两天之后，终于做出了如下的选择。（钱到用时方恨少！）先来一发到货产品合照：嗖！！！！<strong>时间回到开</strong>...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://test.smzdm.com/pingce/p/36746/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>0</em>
+                </a>
+                <a id = "collect_7_36746" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(36746,7,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>1</em>
+                </a>
+                <a id="love_rating_7_36746" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(36746,7,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>0</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/7590241210/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/7590241210/585a0e4611bf3-small.jpg" class="border-radius">
+                                    ALICIAHOLA                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="16" data-id="566775" timesort="1496479304" articleid="11_566775">
+            <a  href="http://post.smzdm.com/p/566775/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/02/59311247a75308270.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:41<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                                            <a  href="http://post.smzdm.com/p/566775/" target="_blank">
+                        #原创新人#Ashford海淘名士克莱斯麦系列 MOA08591香港人肉带回                    </a>
+                </h2>
+                <p class="item-info"> 购买理由俗话说男人唯一的首饰就是手表，一直钟情于<a href="http://pinpai.smzdm.com/2187/" target="_blank">名士</a>这个低调的牌子，关键<a href="http://pinpai.smzdm.com/1103/" target="_blank">浪琴</a>一个是太烂大街，还有一个原因就是仿的太多。为了不让人们觉得咱带的是仿表，断然不能选浪琴。名士都这么小众的品牌了，肯定不会买个小众的品牌装逼。没人认识，哈哈说下购买经历，虽然Ashfo...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/566775/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>2</em>
+                </a>
+                <a id = "collect_11_566775" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(566775,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>8</em>
+                </a>
+                <a id="love_rating_11_566775" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(566775,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>4</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/5684217212/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/5684217212/56cc23e97cccd-big.jpg" class="border-radius">
+                                    ww9266                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="1" data-id="36847" timesort="1496478900" articleid="7_36847">
+            <a  href="http://test.smzdm.com/pingce/p/36847/" class="item-pic" target="_blank">
+                <img src="http://qnam.smzdm.com/201705/25/59264f5cdb19a488.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:35<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                                            <a  href="http://test.smzdm.com/pingce" class="best">众测</a>
+                                        <a  href="http://test.smzdm.com/pingce/p/36847/" target="_blank">
+                        不挑食边牧的零食 丝倍亮 成犬全价狗粮试用                    </a>
+                </h2>
+                <p class="item-info">我家的边牧今年两岁，是一个25KG的胖姑娘。非常的粘人，不知道是不是因为是母狗的关系，还没有生育过准备给它找个帅哥完成狗生大事。正经的时候还是很漂亮的虽然时常犯二。做为家里的大宝贝她的口粮一直还是不错的，小时候吃<a href="http://www.smzdm.com/fenlei/yangnaifen/" target="_blank">羊奶粉</a>吃了整整一箱，除了一开始的皇家奶糕更是没有...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://test.smzdm.com/pingce/p/36847/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>0</em>
+                </a>
+                <a id = "collect_7_36847" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(36847,7,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>1</em>
+                </a>
+                <a id="love_rating_7_36847" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(36847,7,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>0</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/1168560805/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/1168560805/56cc1a55f3de7-small.jpg" class="border-radius">
+                                    沙克儿                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="28" data-id="562574" timesort="1496478550" articleid="11_562574">
+            <a  href="http://post.smzdm.com/p/562574/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/59325bda5f17e4598.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:29<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/562574/" target="_blank">
+                        #原创新人# 情人节不知道送什么?奥利奥音乐礼盒,惊喜+高逼格的表白神器!                    </a>
+                </h2>
+                <p class="item-info">购买理由 五月十几号无聊的时候逛张大妈,看到有这个<a href="http://www.smzdm.com/fenlei/yinyue/" target="_blank">音乐</a>礼盒的优惠,一眼就喜欢上了(ps:没有女朋友的单身狗,想送人都没得送),能吃还能像黑胶唱片一样放音乐听,简直不能更好了,逼格满满有没有!价格才99rmb果断下手,我买的时候是在天猫超市看到库存还剩150多件...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/562574/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>3</em>
+                </a>
+                <a id = "collect_11_562574" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(562574,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>20</em>
+                </a>
+                <a id="love_rating_11_562574" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(562574,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>5</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/9257801553/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/9257801553/5928ef956222a-small.jpg" class="border-radius">
+                                    吃花生的玻璃瓶                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="22" data-id="566924" timesort="1496478527" articleid="11_566924">
+            <a  href="http://post.smzdm.com/p/566924/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/02/5931761c502dc3225.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:28<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/566924/" target="_blank">
+                        值得你夏季跑步来一双——李宁超轻14评测                    </a>
+                </h2>
+                <p class="item-info">近些日子，随着天气渐渐炎热和已有<a href="http://www.smzdm.com/fenlei/paobuxie/" target="_blank">跑鞋</a>的逐步磨损，换一双轻便透气的新鞋已经提上了议事日程。而且最近总是听到跑友们评价<a href="http://pinpai.smzdm.com/731/" target="_blank">李宁</a>的跑鞋不错，于是赶紧入手了一双。而拿到新鞋，当然要写一篇评测了，我会从详细的跑步体验角度出发，看看李宁超轻14代带给我的惊喜。一、 基础信息1...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/566924/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>5</em>
+                </a>
+                <a id = "collect_11_566924" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(566924,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>11</em>
+                </a>
+                <a id="love_rating_11_566924" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(566924,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>3</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/7740088520/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/7740088520/56cc2e5a50432-small.jpg" class="border-radius">
+                                    上帝说要有光                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="20" data-id="566989" timesort="1496478455" articleid="11_566989">
+            <a  href="http://post.smzdm.com/p/566989/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/59324f3c801df9482.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:27<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/566989/" target="_blank">
+                        一次过：为了大白腿！看完《神奇女侠》买一个回家                    </a>
+                </h2>
+                <p class="item-info">6月2日《神奇女侠》首映，号称DC翻身之作，然而我只看到了完美的女神，电影却没有过多的惊喜，如同<a href="http://www.smzdm.com/fenlei/manhua/" target="_blank">漫画</a>情节一般，一切都在意料之中，DC翻身之路任重道远，作为一部人物起源电影，我们也不能要求太多，只希望DC能拍出自己的风格，即使战不赢漫威也能留下一段经典。昨天看到...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/566989/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>9</em>
+                </a>
+                <a id = "collect_11_566989" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(566989,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>5</em>
+                </a>
+                <a id="love_rating_11_566989" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(566989,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>2</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/6230290978/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/6230290978/58ff23fa76304-small.jpg" class="border-radius">
+                                    雷特森                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="17" data-id="567010" timesort="1496477663" articleid="11_567010">
+            <a  href="http://post.smzdm.com/p/567010/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/59326d63906072105.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:14<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567010/" target="_blank">
+                        Teclast 台电 T100UC-G（10000mAh/QC3.0）双向快充移动电源简评                    </a>
+                </h2>
+                <p class="item-info">购买过程　　买这个<a href="http://www.smzdm.com/fenlei/yidongdianyuan/" target="_blank">移动电源</a>的经过，真是有点曲折。　　入手原因是买了个QC3.0充电的手机，之前的移动电源只能5V2A输出，所以就想着入一个支持QC3.0、支持双向快充、最好能支持数显的移动电源。　　5月25日的时候，发现京东推出了个“手机配件节”，看了下正好有...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567010/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>6</em>
+                </a>
+                <a id = "collect_11_567010" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567010,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>9</em>
+                </a>
+                <a id="love_rating_11_567010" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567010,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>1</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/7102035536/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/7102035536/57c02428c8cb0-small.jpg" class="border-radius">
+                                    玛卡哈哈                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="84" data-id="552433" timesort="1496477578" articleid="11_552433">
+            <a  href="http://post.smzdm.com/p/552433/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/593244ba2572c3696.png_c350.jpg" />
+                <span class="time"><em class="left"></em>16:12<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/552433/" target="_blank">
+                        首发入手三星 SAMSUNG 三星 S8+使用感受                    </a>
+                </h2>
+                <p class="item-info">手里的NOTE3已经服役了快3年了，按照之前三星跳水的习惯，原本打算到今年7、8月份购买NOTE7。可惜NOTE7不争气，boom boom。悲剧，4月份我的NOTE3从口袋掉了出来，漏夜了。啊，一切都是天意，一切都是命运，终究逃不离。就只能看看S系列了，作为...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/552433/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>47</em>
+                </a>
+                <a id = "collect_11_552433" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(552433,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>12</em>
+                </a>
+                <a id="love_rating_11_552433" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(552433,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>15</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/2085811815/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/2085811815/58ab923bf3682-small.jpg" class="border-radius">
+                                    zjqdjq                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="40" data-id="550208" timesort="1496477464" articleid="11_550208">
+            <a  href="http://post.smzdm.com/p/550208/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201704/12/58eda9ad2c2ac8252.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:11<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/550208/" target="_blank">
+                        小胖妞想在夏天瘦下来穿裙子 ——TUNTURI 水阻划船器，速度练起来                    </a>
+                </h2>
+                <p class="item-info"><strong>小胖妞的造成：</strong>最自豪的体重是在大学时期，楼主160身高，一直维持在108斤左右，大学在重庆，学校是依山而建，天天的山上山下的走，不胖不瘦的美美哒……！接下来好想哭……毕业后，跟随大学男友J先生来北京，然后结婚、生子。体重稳步上升，生完孩子后的2年，都维持在13...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/550208/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>14</em>
+                </a>
+                <a id = "collect_11_550208" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(550208,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>20</em>
+                </a>
+                <a id="love_rating_11_550208" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(550208,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>3</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/6567267996/" target="_blank">
+                                    <img src="http://res.smzdm.com/images/user_logo/default_avatar/2-small.png" class="border-radius">
+                                    值友4455153986                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="18" data-id="560357" timesort="1496477413" articleid="11_560357">
+            <a  href="http://post.smzdm.com/p/560357/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/01/592f8b2bd39b62390.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:10<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                                            <a  href="http://post.smzdm.com/p/560357/" target="_blank">
+                        每日随身EDC，要来猜我做什么工作么                    </a>
+                </h2>
+                <p class="item-info">大妈上泡了很久了，一直想写一篇原创不知道写什么好，讲讲我养死的几盆花？太惭愧；自己鼓捣的笔记本？也就是给别人加个<a href="http://www.smzdm.com/fenlei/neicun/" target="_blank">内存</a>条换个固态的水平；聊聊常用软件？自己用的顺手不一定别人喜欢，毕竟每个人需求不一样；那就来晒个EDC吧，算是对自己生活的记录，起标题都有点犯难，不...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/560357/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>10</em>
+                </a>
+                <a id = "collect_11_560357" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(560357,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>5</em>
+                </a>
+                <a id="love_rating_11_560357" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(560357,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>2</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/7494060238/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/7494060238/592707967ed53-small.jpg" class="border-radius">
+                                    我的个天呀                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="25" data-id="565440" timesort="1496477386" articleid="11_565440">
+            <a  href="http://post.smzdm.com/p/565440/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/01/592f164a5e33b4330.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:09<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                                            <a  href="http://post.smzdm.com/p/565440/" target="_blank">
+                        台电 240G NVME SSD 晒单                    </a>
+                </h2>
+                <p class="item-info">在上一篇的晒单中我已经充分感受到NVMe固态所带给我的魅力，打开如Photoshops之类的<a href="http://www.smzdm.com/fenlei/bangongruanjian/" target="_blank">办公软件</a>基本秒开，游戏载入也是秒读取。正当我用得不能自拔的时候，小伙伴居然给打劫走了，原因是江湖救急。但问题是我习惯了NVMe那种高速酸爽岂能回到SATA固态的石器时代...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/565440/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>9</em>
+                </a>
+                <a id = "collect_11_565440" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(565440,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>9</em>
+                </a>
+                <a id="love_rating_11_565440" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(565440,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>4</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/1333813790/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/1333813790/57946cf77c9c0-small.jpg" class="border-radius">
+                                    啊鲁                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="199" data-id="542640" timesort="1496477244" articleid="11_542640">
+            <a  href="http://post.smzdm.com/p/542640/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201705/23/59244d393ab8a2181.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:07<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/542640/" target="_blank">
+                        赛特厄普斯 篇六：桌面加减法——记上半年的两次桌面更新                    </a>
+                </h2>
+                <p class="item-info">本评测共3394字，配图55张，预计阅读时间10分钟（扫读2分钟，决定点赞0.1秒），建议在WiFi环境下阅读！欢迎收藏、点赞、打赏、关注，谢谢！去年年底响应张大妈号召，晒了一波桌面。在各位值友的指点下，又对书桌进行了两波更新，迫不及待与各位分享。第一波升级主...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/542640/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>42</em>
+                </a>
+                <a id = "collect_11_542640" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(542640,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>110</em>
+                </a>
+                <a id="love_rating_11_542640" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(542640,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>22</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/9605323576/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/9605323576/57c00468601b5-small.jpg" class="border-radius">
+                                    willllim                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="95" data-id="567014" timesort="1496476996" articleid="11_567014">
+            <a  href="http://post.smzdm.com/p/567014/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/5932381fdc74f941.png_c350.jpg" />
+                <span class="time"><em class="left"></em>16:03<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                                            <a  href="http://post.smzdm.com/p/567014/" target="_blank">
+                        银联62折狂欢-京东商城-支付教程                    </a>
+                </h2>
+                <p class="item-info">这是活动链接：6月2日至8日，银联62狂欢X京东商城62折，30元封：好多人看见了这个优惠活动，相信还是有部分人不知道该怎么去用，下面我将给大家做一个演示，如有不足，请多指教。不推荐使用建设银行的储蓄卡，个人使用时总有问题，银联钱包内还有很多活动，大家可以自行...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567014/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>25</em>
+                </a>
+                <a id = "collect_11_567014" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567014,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>55</em>
+                </a>
+                <a id="love_rating_11_567014" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567014,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>10</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/7931682755/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/7931682755/585101eae79b3-big.jpg" class="border-radius">
+                                    蓝盐                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="20" data-id="566995" timesort="1496476874" articleid="11_566995">
+            <a  href="http://post.smzdm.com/p/566995/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/593226041a6038282.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:01<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/566995/" target="_blank">
+                        #原创新人#Mizuno 美津浓 WAVE RIDER 20 跑步鞋开箱晒单                    </a>
+                </h2>
+                <p class="item-info">夏天到了，整天坐在室内感到沉闷无比，此刻望着窗外美好的天气，想象自己在外运动得酣畅淋漓，愈发勾起了跑步的欲望。购买理由一直没有专门的<a href="http://www.smzdm.com/fenlei/paobuxie/" target="_blank">跑鞋</a>，所以都是随便穿的鞋子去跑步，比如匡威、软底的阿迪。后来发现跑完步脚底板痛，才发觉硬底的重要性。过阵子右脚后跟有点疼，终于意...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/566995/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>7</em>
+                </a>
+                <a id = "collect_11_566995" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(566995,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>6</em>
+                </a>
+                <a id="love_rating_11_566995" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(566995,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>4</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/4914852570/" target="_blank">
+                                    <img src="http://res.smzdm.com/images/user_logo/default_avatar/5-big.png" class="border-radius">
+                                    ketzap                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="25" data-id="566879" timesort="1496476849" articleid="11_566879">
+            <a  href="http://post.smzdm.com/p/566879/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/02/59314f9539c10693.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:00<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/566879/" target="_blank">
+                        WeLoop 唯乐 运动手表 Hey 3S，正式销售开箱                    </a>
+                </h2>
+                <p class="item-info"> 唯乐作为国产运动只能手表比较靠谱和良心的厂家（运动圈和同事据说，hey 3s是我第一款唯乐），其首款配备GPS芯片的Hey 3S运动手表从众筹以来关注度就很高，无奈打听到Hey 3S实在是太晚了众筹已经结束。正在犹豫要不要加预算入佳明的入门或爱普森的时候，看...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/566879/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>16</em>
+                </a>
+                <a id = "collect_11_566879" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(566879,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>4</em>
+                </a>
+                <a id="love_rating_11_566879" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(566879,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>3</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/6558346726/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/6558346726/56cc1bc062833-small.jpg" class="border-radius">
+                                    第五街                                </a>
+                                                                        
+                            </div>
+        </li>
+                <li class="list" data-sum-collect="19" data-id="567026" timesort="1496476830" articleid="11_567026">
+            <a  href="http://post.smzdm.com/p/567026/" class="item-pic" target="_blank">
+                <img src="http://a.zdmimg.com/201706/03/59324adcde9155949.jpg_c350.jpg" />
+                <span class="time"><em class="left"></em>16:00<em class="right"></em></span>
+            </a>
+            <div class="item-info-box">
+                <h2 class="item-name">
+                                        <a  href="http://post.smzdm.com/jinghua/" class="best">精华</a>
+                                                            <a  href="http://post.smzdm.com/p/567026/" target="_blank">
+                        给老爸的青春—— HUAWEI 华为 荣耀 8 青春版开箱                    </a>
+                </h2>
+                <p class="item-info"><strong>购买理由</strong>老爸是做小本买卖的，观赏鱼，平时会拿着渔网去家门口的小河捞一些鱼虫子来投喂，这是铺垫。昨天接到老妈电话，电话里急急可可的说你赶紧给你爸买个手机，你爸捞鱼虫子时手机掉河里了……性能无所谓，千元左右，能发微信不卡就行，不要太大的，大了不好拿，一定要快啊，要...</p>
+            </div>
+            <div class="item-bot">
+                <a  href="http://post.smzdm.com/p/567026/#comments" class="comment" target="_blank">
+                    <i class="icon-comment"><!--[if lt IE 8]>评论<![endif]--></i><em>11</em>
+                </a>
+                <a id = "collect_11_567026" href="javascript:void(0);" class="fav"
+                   onclick="ajax_collect(567026,11,this);">
+                    <i class="icon-collect"><!--[if lt IE 8]>收藏<![endif]--></i><em>3</em>
+                </a>
+                <a id="love_rating_11_567026" href="javascript:void(0);" class="zan"
+                   onclick="ajax_love(567026,11,this);">
+                    <i class="icon-zan2"><!--[if lt IE 8]>赞<![endif]--></i><em>4</em>
+                    <span class="scoreAnimate">+1</span>
+                </a>
+                
+                                                                                                        <a  class="nickname ellipsis" href="http://zhiyou.smzdm.com/member/7837363741/" target="_blank">
+                                    <img src="http://avatarimg.smzdm.com/default/7837363741/56cc21a27d18f-small.jpg" class="border-radius">
+                                    Runwatch                                </a>
+                                                                        
+                            </div>
+        </li>
+            </ul>
+    <img src="http://post.smzdm.com/resources/img/loading.gif" class="loadingPic">
+    <ul class="pagination"><li><a href="http://post.smzdm.com/" class="pageCurrent">1</a></li><li><a href="http://post.smzdm.com/p2/">2</a></li><li><a href="http://post.smzdm.com/p3/">3</a></li><li><a href="http://post.smzdm.com/p4/">4</a></li><li><a href="http://post.smzdm.com/p5/">5</a></li><li><a href="http://post.smzdm.com/p6/">6</a></li><li><span class="dotStyle">...</span></li><li class="pagedown"><a href="http://post.smzdm.com/p2/">下一页</a><span>&gt;</span></li></ul>    <input id="filter" type="hidden" name="filter" value=""/>
+    <input id="page" type="hidden" name="page" value="1"/>
+    <input id="list_from" type="hidden" name="list_from" value="home"/>
+            <input id="channel" type="hidden" name="channel" value="ycIndex"/>
+    </div>
+        <!--原创首页列表 end-->
+
+        <div class="bot_Banner g_g">
+            
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://s2.zdmimg.com/www/delivery/ajs.php':'http://s2.zdmimg.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=63");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+        </div>
+
+    </section>
+    <!--section end-->
+    <div class="bot-grey-bg">
+        <div class="w1050">
+            <!--原创系列推荐-->
+            <div class="series-box">
+    <div class="top-title">系列推荐</div>
+    <div class="line-solid"></div>
+    <!--one item-->
+        <div class="pandect-content-big">
+        <a onclick="dataLayer.push({'event':'原创首页_系列推荐_图片','文章编号':'20810','文章标题':'玩物不丧志','位置':'1'})" href="http://post.smzdm.com/xilie/20810/" class="pandect-content-img"><img src="http://a.zdmimg.com/201705/06/590cbc7baf2985204.jpg_c640.jpg"></a>
+        <div class="pandect-content-stuff">
+            <div class="pandect-content-title">
+                <a onclick="dataLayer.push({'event':'原创首页_系列推荐_图片','文章编号':'20810','文章标题':'玩物不丧志','位置':'1'})" href="http://post.smzdm.com/xilie/20810/">
+                    #&nbsp;玩物不丧志&nbsp;#</a>
+            </div>
+            <div class="pandect-content-detail">
+                <span class="pandect-content-static">最新更新：</span>
+                <a onclick="dataLayer.push({'event':'原创首页_系列推荐_系列最新','文章编号':'20810','文章标题':'玩物不丧志','位置':'1'})" href="http://post.smzdm.com/p/556117/">
+                    篇二：我不是钢铁侠但是我有一颗钢铁侠的心 — DIY小型反应炉                </a>
+            </div>
+            <div class="pandect-content-action">
+                <span class="pandect-content-time">
+                    2017/05/08                </span>
+                <span class="grey"><i>赞</i>
+                    724</span>
+                <span class="grey"><i>收藏</i>
+                    1234</span>
+            </div>
+        </div>
+    </div>
+        <div class="line-dashed"></div>
+            <div class="pandect-content-big">
+        <a onclick="dataLayer.push({'event':'原创首页_系列推荐_图片','文章编号':'18413','文章标题':'别墅新房装修贴','位置':'2'})" href="http://post.smzdm.com/xilie/18413/" class="pandect-content-img"><img src="http://a.zdmimg.com/201705/22/5922e8e27538e7438.jpg_c640.jpg"></a>
+        <div class="pandect-content-stuff">
+            <div class="pandect-content-title">
+                <a onclick="dataLayer.push({'event':'原创首页_系列推荐_图片','文章编号':'18413','文章标题':'别墅新房装修贴','位置':'2'})" href="http://post.smzdm.com/xilie/18413/">
+                    #&nbsp;别墅新房装修贴&nbsp;#</a>
+            </div>
+            <div class="pandect-content-detail">
+                <span class="pandect-content-static">最新更新：</span>
+                <a onclick="dataLayer.push({'event':'原创首页_系列推荐_系列最新','文章编号':'18413','文章标题':'别墅新房装修贴','位置':'2'})" href="http://post.smzdm.com/p/563266/">
+                    篇四：中央舒适系统（新风、中央空调、全屋地暖、全屋热水）                </a>
+            </div>
+            <div class="pandect-content-action">
+                <span class="pandect-content-time">
+                    2017/05/28                </span>
+                <span class="grey"><i>赞</i>
+                    934</span>
+                <span class="grey"><i>收藏</i>
+                    8828</span>
+            </div>
+        </div>
+    </div>
+        <div class="line-dashed"></div>
+            <div class="pandect-content-big">
+        <a onclick="dataLayer.push({'event':'原创首页_系列推荐_图片','文章编号':'14902','文章标题':'一期一会饮食指南，值得食系列','位置':'3'})" href="http://post.smzdm.com/xilie/14902/" class="pandect-content-img"><img src="http://a.zdmimg.com/201705/22/59229426453462919.jpg_c640.jpg"></a>
+        <div class="pandect-content-stuff">
+            <div class="pandect-content-title">
+                <a onclick="dataLayer.push({'event':'原创首页_系列推荐_图片','文章编号':'14902','文章标题':'一期一会饮食指南，值得食系列','位置':'3'})" href="http://post.smzdm.com/xilie/14902/">
+                    #&nbsp;一期一会饮食指南，值得食系列&nbsp;#</a>
+            </div>
+            <div class="pandect-content-detail">
+                <span class="pandect-content-static">最新更新：</span>
+                <a onclick="dataLayer.push({'event':'原创首页_系列推荐_系列最新','文章编号':'14902','文章标题':'一期一会饮食指南，值得食系列','位置':'3'})" href="http://post.smzdm.com/p/563135/">
+                    篇二十三：值得一吃的泰国菜（米其林推荐）                </a>
+            </div>
+            <div class="pandect-content-action">
+                <span class="pandect-content-time">
+                    2017/05/22                </span>
+                <span class="grey"><i>赞</i>
+                    2119</span>
+                <span class="grey"><i>收藏</i>
+                    13958</span>
+            </div>
+        </div>
+    </div>
+            <!--one item end-->
+</div>
+            <!--原创系列推荐 end-->
+
+            <!--原创达人榜-->
+            
+<div class="people-list-box">
+    <!-- top start 原创达人排行榜 -->
+    <div class="top-title">一周原创达人榜
+        <a href="http://zhiyou.smzdm.com/author/" class="show-more" target="_blank">查看更多</a>
+    </div>
+    <div class="line-solid"></div>
+            <!--one item-->
+        <div class="top-element">
+            <div class="top-number">1</div>
+            <div class="leftPicBlock">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'伽罗生活','位置':'1'})" href="http://zhiyou.smzdm.com/member/6435161840/" target="_blank">
+                    <img alt="" title="什么值得买会员:abelfz" src="http://avatarimg.smzdm.com/default/6435161840/591e9c5bde9c9-big.jpg" class="avatar avatar-36 photo avatar-default"></a>
+            </div>
+            <div class="top-nikename">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'伽罗生活','位置':'1'})" href="http://zhiyou.smzdm.com/member/6435161840/" target="_blank">
+                    伽罗生活</a></div>
+            <div class="top-action">
+                <span class="grey no-padding"><i>赞</i>643</span>
+                <span class="grey"><i>收藏</i>5099</span>
+            </div>
+        </div>
+
+                    <div class="line-dashed"></div>
+                <!--one item end-->
+            <!--one item-->
+        <div class="top-element">
+            <div class="top-number">2</div>
+            <div class="leftPicBlock">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'亭主','位置':'2'})" href="http://zhiyou.smzdm.com/member/6720424776/" target="_blank">
+                    <img alt="" title="什么值得买会员:abelfz" src="http://avatarimg.smzdm.com/default/6720424776/58957be7dac4a-small.jpg" class="avatar avatar-36 photo avatar-default"></a>
+            </div>
+            <div class="top-nikename">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'亭主','位置':'2'})" href="http://zhiyou.smzdm.com/member/6720424776/" target="_blank">
+                    亭主</a></div>
+            <div class="top-action">
+                <span class="grey no-padding"><i>赞</i>615</span>
+                <span class="grey"><i>收藏</i>4778</span>
+            </div>
+        </div>
+
+                    <div class="line-dashed"></div>
+                <!--one item end-->
+            <!--one item-->
+        <div class="top-element">
+            <div class="top-number">3</div>
+            <div class="leftPicBlock">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'sunkai0086','位置':'3'})" href="http://zhiyou.smzdm.com/member/6731990273/" target="_blank">
+                    <img alt="" title="什么值得买会员:abelfz" src="http://res.smzdm.com/images/user_logo/default_avatar/3-small.png" class="avatar avatar-36 photo avatar-default"></a>
+            </div>
+            <div class="top-nikename">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'sunkai0086','位置':'3'})" href="http://zhiyou.smzdm.com/member/6731990273/" target="_blank">
+                    sunkai0086</a></div>
+            <div class="top-action">
+                <span class="grey no-padding"><i>赞</i>507</span>
+                <span class="grey"><i>收藏</i>4359</span>
+            </div>
+        </div>
+
+                    <div class="line-dashed"></div>
+                <!--one item end-->
+            <!--one item-->
+        <div class="top-element">
+            <div class="top-number">4</div>
+            <div class="leftPicBlock">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'曼谷二小姐','位置':'4'})" href="http://zhiyou.smzdm.com/member/8008717815/" target="_blank">
+                    <img alt="" title="什么值得买会员:abelfz" src="http://avatarimg.smzdm.com/default/8008717815/592c2cee256f8-small.jpg" class="avatar avatar-36 photo avatar-default"></a>
+            </div>
+            <div class="top-nikename">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'曼谷二小姐','位置':'4'})" href="http://zhiyou.smzdm.com/member/8008717815/" target="_blank">
+                    曼谷二小姐</a></div>
+            <div class="top-action">
+                <span class="grey no-padding"><i>赞</i>562</span>
+                <span class="grey"><i>收藏</i>4100</span>
+            </div>
+        </div>
+
+                    <div class="line-dashed"></div>
+                <!--one item end-->
+            <!--one item-->
+        <div class="top-element">
+            <div class="top-number">5</div>
+            <div class="leftPicBlock">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'OceanHsiang','位置':'5'})" href="http://zhiyou.smzdm.com/member/7060400846/" target="_blank">
+                    <img alt="" title="什么值得买会员:abelfz" src="http://res.smzdm.com/images/user_logo/default_avatar/2-big.png" class="avatar avatar-36 photo avatar-default"></a>
+            </div>
+            <div class="top-nikename">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'OceanHsiang','位置':'5'})" href="http://zhiyou.smzdm.com/member/7060400846/" target="_blank">
+                    OceanHsiang</a></div>
+            <div class="top-action">
+                <span class="grey no-padding"><i>赞</i>568</span>
+                <span class="grey"><i>收藏</i>3829</span>
+            </div>
+        </div>
+
+                    <div class="line-dashed"></div>
+                <!--one item end-->
+            <!--one item-->
+        <div class="top-element">
+            <div class="top-number">6</div>
+            <div class="leftPicBlock">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'爱唱歌的男文秘','位置':'6'})" href="http://zhiyou.smzdm.com/member/6949600517/" target="_blank">
+                    <img alt="" title="什么值得买会员:abelfz" src="http://avatarimg.smzdm.com/default/6949600517/592268afb4e8c-big.jpg" class="avatar avatar-36 photo avatar-default"></a>
+            </div>
+            <div class="top-nikename">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'爱唱歌的男文秘','位置':'6'})" href="http://zhiyou.smzdm.com/member/6949600517/" target="_blank">
+                    爱唱歌的男文秘</a></div>
+            <div class="top-action">
+                <span class="grey no-padding"><i>赞</i>565</span>
+                <span class="grey"><i>收藏</i>3618</span>
+            </div>
+        </div>
+
+                    <div class="line-dashed"></div>
+                <!--one item end-->
+            <!--one item-->
+        <div class="top-element">
+            <div class="top-number">7</div>
+            <div class="leftPicBlock">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'黑色郁金香sias','位置':'7'})" href="http://zhiyou.smzdm.com/member/5057049514/" target="_blank">
+                    <img alt="" title="什么值得买会员:abelfz" src="http://avatarimg.smzdm.com/default/5057049514/586b2844284d9-small.jpg" class="avatar avatar-36 photo avatar-default"></a>
+            </div>
+            <div class="top-nikename">
+                <a onclick="dataLayer.push({'event':'原创首页_原创达人榜','文章标题':'黑色郁金香sias','位置':'7'})" href="http://zhiyou.smzdm.com/member/5057049514/" target="_blank">
+                    黑色郁金香sias</a></div>
+            <div class="top-action">
+                <span class="grey no-padding"><i>赞</i>606</span>
+                <span class="grey"><i>收藏</i>3458</span>
+            </div>
+        </div>
+
+                <!--one item end-->
+        <!-- top end 原创达人排行榜 -->
+</div>
+            <!--原创达人榜 end-->
+        </div>
+    </div>
+
+<script type="text/javascript" src="http://www.smzdm.com/resources/public/js/slick.js?v=2017032901"></script>
+<div class="pop pop_no_title J_focus_pop">
+  <i class="pop-close icon-cross-lighter"><!--[if lt IE 8]>x<![endif]--></i>
+  <!-- pop-content -->    
+  <div class="pop-content twoLine">
+    <i class="icon-logintanhao"><!--[if lt IE 8]>√<![endif]--></i>
+    <p class="pop_info">关注数量超出限制，<br>请先删除部分内容再尝试
+
+    </p>
+  </div>
+  <!-- pop-content end -->    
+</div>
+<footer id="footer" _hover-ignore="1">
+            <!-- rightLayer -->
+	    <div class="rightLayer" id="rightLayer">
+	        <a href="javascript:void(0);" class="goTotop" id="backToTop" title="返回顶部" style="display: block;"><i class="icon-returntop"><!--[if lt IE 8]>返回顶部<![endif]--></i></a>
+	        <a href="http://www.smzdm.com/feedback" class="suggest" target="_blank" title="用户反馈"><i class="icon-fankui"><!--[if lt IE 8]>用户反馈<![endif]--></i></a>
+	    </div>
+	    <!-- rightLayer end -->
+	    	<div class="footer">
+			<div class="footerTop">
+				<a href="http://www.smzdm.com/about" target="_blank">关于我们</a>
+    			<a href="http://www.smzdm.com/contact-us" target="_blank">联系我们</a>
+				<a href="http://shangjia.smzdm.com/">开放平台（商家）</a>
+    			<a href="http://www.smzdm.com/zhaopin/hot/">招聘专区</a>
+    			<a href="http://www.smzdm.com/sitemap.html" class="sitemap">网站地图</a>
+    			<a href="http://haitao.smzdm.com/gonglve/">海淘攻略</a>
+    			<a href="http://haitao.smzdm.com/zixun/">海淘资讯</a>
+    			<a href="http://haitao.smzdm.com/shaiwu/">海淘晒物</a>
+			</div>
+			<div class="footer-innerlink">
+    <div class="innerlink-title">
+            <span class="active">热门分类</span>
+            <span >热门品牌</span>
+            <span >优惠券</span>
+            <span >旅游频道</span>
+        </div>
+        <div class="innerlink-content"  >
+                    <a href="http://www.smzdm.com/fenlei/suishenbofangqi/" target="_blank">随身播放器</a>
+                    <a href="http://www.smzdm.com/fenlei/weiyuyongpin/" target="_blank">卫浴用品</a>
+                    <a href="http://www.smzdm.com/fenlei/touyingshebei/" target="_blank">投影设备</a>
+                    <a href="http://www.smzdm.com/fenlei/kuangjing/" target="_blank">框镜</a>
+                    <a href="http://www.smzdm.com/fenlei/pingbandiannao/" target="_blank">平板电脑</a>
+                    <a href="http://www.smzdm.com/fenlei/paobuxie/" target="_blank">跑鞋</a>
+                    <a href="http://www.smzdm.com/fenlei/kongtiao/" target="_blank">空调</a>
+                    <a href="http://www.smzdm.com/fenlei/haiwailvyou/" target="_blank">海外旅游</a>
+                    <a href="http://www.smzdm.com/fenlei/anquanzuoyi/" target="_blank">安全座椅</a>
+                    <a href="http://www.smzdm.com/fenlei/taiyangjing/" target="_blank">太阳镜</a>
+                    <a href="http://www.smzdm.com/fenlei/kongqijinghuaqi/" target="_blank">空气净化器</a>
+                    <a href="http://www.smzdm.com/fenlei/wurenji/" target="_blank">无人机</a>
+                    <a href="http://www.smzdm.com/fenlei/zhazhiji/" target="_blank">榨汁机</a>
+                    <a href="http://www.smzdm.com/fenlei/reshuiqi/" target="_blank">热水器</a>
+                    <a href="http://www.smzdm.com/fenlei/xiwanji/" target="_blank">洗碗机</a>
+                    <a href="http://www.smzdm.com/fenlei/jingtou/" target="_blank">镜头</a>
+            </div>
+        <div class="innerlink-content"  style="display:none;">
+                    <a href="http://pinpai.smzdm.com/fenlei/1933-1255/" target="_blank">小米电视</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1897-1255/" target="_blank">乐视电视</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1669-283/" target="_blank">联想笔记本电脑</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1191-3945/" target="_blank">劳力士男表</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/269-1259/" target="_blank">海尔冰箱</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/413-1295/" target="_blank">东菱面包机</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/727-263/" target="_blank">耐克跑鞋</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/2197-663/" target="_blank">科颜氏爽肤水</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1011-747/" target="_blank">云南白药牙膏</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/85-4899/" target="_blank">星巴克咖啡</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1197-4031/" target="_blank">宝格丽项链</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1673-351/" target="_blank">惠普打印机</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1435-489/" target="_blank">壳牌机油</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/6057-3639/" target="_blank">暴龙太阳镜</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/367-1553/" target="_blank">史密斯热水器</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/249-453/" target="_blank">索尼耳机</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/269-1261/" target="_blank">海尔洗衣机</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/801-211/" target="_blank">探路者冲锋衣</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/15841-71/" target="_blank">婷美内衣</a>
+                    <a href="http://pinpai.smzdm.com/fenlei/1589-2471/" target="_blank">雅马哈钢琴</a>
+            </div>
+        <div class="innerlink-content"  style="display:none;">
+                    <a href="http://duihuan.smzdm.com/quan/4193/" target="_blank">饿了么优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/153/" target="_blank">当当网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/261/" target="_blank">我买网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/2233/" target="_blank">云猴全球购优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/247/" target="_blank">天猫精选优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/4373/" target="_blank">达令网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/3981/" target="_blank">网易考拉海购优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/679/" target="_blank">健一网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/269/" target="_blank">亚马逊中国优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/191/" target="_blank">可得眼镜网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/349/" target="_blank">大众点评网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/183/" target="_blank">京东优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/239/" target="_blank">苏宁易购优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/487/" target="_blank">1药网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/3613/" target="_blank">西集网优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/43/" target="_blank">1号店优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/dianyingpiao/" target="_blank">电影票优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/dache/" target="_blank">打车优惠券</a>
+                    <a href="http://duihuan.smzdm.com/quan/waimai/" target="_blank">外卖优惠券</a>
+            </div>
+        <div class="innerlink-content"  style="display:none;">
+                    <a href="http://lvyou.smzdm.com/zhuanti/" target="_blank">旅游杂谈 </a>
+                    <a href="http://lvyou.smzdm.com/haojia/0-10-0-0-0-0-1-1/" target="_blank">马尔代夫特价</a>
+                    <a href="http://lvyou.smzdm.com/haojia/0-12-0-0-0-0-1-1/" target="_blank">澳大利亚旅游价格</a>
+                    <a href="http://lvyou.smzdm.com/haojia/0-7-0-0-0-0-1-1/" target="_blank">泰国旅游报价</a>
+                    <a href="http://lvyou.smzdm.com/haojia/0-12-0-0-0-0-1-1/" target="_blank">澳洲旅游报价 </a>
+                    <a href="http://lvyou.smzdm.com/haojia/0-8-0-0-0-0-1-1/" target="_blank">日本旅游报价</a>
+            </div>
+    </div>
+	        <div class="footerLink"><div class="linkTitle">友情链接<span>（<a href="http://www.smzdm.com/links">申请</a>）</span></div><ul><li><a href="http://new.brand.smzdm.com" target="_blank">新锐品牌</a></li><li><a href="http://www.homekoo.com/" target="_blank">家具网</a></li><li><a href="http://www.jianglishi.cn/" target="_blank">中国历史</a></li><li><a href="http://www.cunan.com/" target="_blank">村安商城</a></li></ul></div>			<div class="footer-l-btm">
+				<p>版权所有 本站内容未经书面许可,禁止一切形式的转载。 © copyright 2010-2017 什么值得买. All rights reserved. </p>
+				<p><a href="http://www.miibeian.gov.cn/" style="color:#999;" target="_blank" _hover-ignore="1">京ICP备12048526号-2</a> <a href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010602100083' style="color:#999;" target="_blank" _hover-ignore="1"><img src="http://res.smzdm.com/images/jgwab.png" style="vertical-align: bottom"> 京公网安备 11010602100083</a> <a href='http://www.smzdm.com/jingyingxuke/' style="color:#999;" target="_blank" _hover-ignore="1">电信与信息服务业务经营许可证：京ICP证160379号</a> &nbsp;<a href='http://www.smzdm.com/shipinxuke/' style="color:#999;" target="_blank" _hover-ignore="1">广播电视节目制作经营许可证（京）字第07726号</a></p>
+				<p class='footer-l-add'>公司名称：北京值得买科技股份有限公司&nbsp;&nbsp;&nbsp;地址：北京市丰台区洋桥12号院3层至19层&nbsp;&nbsp;&nbsp;座机：010-56640700</p>
+			</div>
+		</div>
+	</footer>
+<!-- pop login -->
+<div class="pop" id="pop-login">
+	<i class="pop-close icon-cross-lighter"><!--[if lt IE 8]>x<![endif]--></i>
+    <!-- pop-title -->
+	<div class="pop-title">
+		<div class="pop_name">登录</div><a href="http://www.smzdm.com/user/register" class="a_underline">注册</a>
+	</div>
+    <!-- pop-title end -->
+
+	<!-- pop-content -->		
+	<div class="pop-content">
+        <form id="login_form" action="http://www.smzdm.com/user/login" method="post">
+			<!-- form-item -->
+			<div class="form-item">
+				<div class="item-tip">用户名/邮箱</div>
+				<input id="user_login" class="form-input" type="text" name="user_login" value="" tabindex="1" autocomplete="off" />
+				<!--<span class="greyNotice">什么值得买即将停用用户名登录，点击<a href="http://www.smzdm.com/yonghuming" class="a_underline" target="_blank">查看详情</a></span>-->
+			</div>
+			<!-- form-item end -->
+			<!-- form-item -->			
+			<div class="form-item">
+				<div class="item-tip">密码</div>
+				<input id="user_pass" class="form-input" type="password" name="user_pass" value="" tabindex="2" />
+			</div>	
+			<!-- form-item end -->
+			<!-- form-item -->	
+			<div class="captchaBox">
+				<div class="form-item captcha_switch">
+					<div class="item-tip">验证码</div>				
+					<input id="captcha" class="form-input" type="text" name="captcha" autocomplete="off" tabindex="3" />
+				</div>
+				<div class="captcha_imgBox captcha_switch">
+                    <img id="captcha_img" src="" onclick="document.getElementById('captcha_img').src = 'http://www.smzdm.com/user/getcaptcha/en/login?' + Math.random();
+                            document.getElementById('captcha').focus();
+                            return false;" data-src="http://www.smzdm.com/user/getcaptcha/en/login" title="看不清?点击更换" alt="看不清?点击更换" />				
+                </div>
+                <div class="twoWeeks">
+				<span id="captcha_error" class="refresh rFloat captcha_switch">看不清?<a onclick="document.getElementById('captcha_img').src = 'http://www.smzdm.com/user/getcaptcha/en/login?' + Math.random();
+                        document.getElementById('captcha').focus();
+                        return false;" href="javascript:void(0);" class="a_underline">点击更换</a></span>
+				
+						<input type="checkbox" id="rememberme" name="rememberme" class="ckeckBox" /><label for="rememberme">两周内免登录</label><a href="http://www.smzdm.com/user/pass/lost" class="a_underline">忘记密码？</a></div>			
+			</div>
+			<!-- form-item end -->			
+			<p class="notice_error"></p>
+            <input type="hidden" id="is_pop_login" value="1"/>
+            <!--<p style="color: #F35A5A">维护期间暂停登录，给您带来的不便深表歉意！</p>-->
+			<input type="submit" id="btn_login" class="btn_login" value="登&nbsp;&nbsp;录" tabindex="4" />
+		</form>
+        <div class="co_login">联合登录<a href="http://www.smzdm.com/user/third/sina?redirect_to=http%3A%2F%2Fpost.smzdm.com%2F" class="a_underline">新浪微博</a><a href="http://www.smzdm.com/user/third/tencent?redirect_to=http%3A%2F%2Fpost.smzdm.com%2F" class="a_underline">腾讯微博</a><a href="http://www.smzdm.com/user/third/qq?redirect_to=http%3A%2F%2Fpost.smzdm.com%2F" class="a_underline">腾讯QQ</a><a href="http://www.smzdm.com/user/third/wmw?redirect_to=http%3A%2F%2Fpost.smzdm.com%2F" class="a_underline">我买网</a></div>
+        
+    </div>
+	<!-- pop-content end -->
+	
+</div>
+<!-- pop login end -->
+
+<!-- pop collect-->
+<div class="pop pop_no_title" id="pop-collect">
+	<i class="pop-close icon-cross-lighter"><!--[if lt IE 8]>x<![endif]--></i>
+	<!-- pop-content -->		
+	<div class="pop-content twoLine" _hover-ignore="1">
+		<i class="icon-loginright"><!--[if lt IE 8]>√<![endif]--></i>
+        <p class="pop_info_show">已收藏<br><a href="http://www.smzdm.com/user/collection" class="a_small a_underline" target="_blank">去我的收藏夹 <span class="arrow">&gt;</span></a></p>
+	</div>
+	<!-- pop-content end -->		
+</div>
+<!-- pop collect end -->
+<!-- pop nocollect-->
+<div class="pop pop_no_title" id="pop-nocollect">
+	<i class="pop-close icon-cross-lighter"><!--[if lt IE 8]>x<![endif]--></i>
+	<!-- pop-content -->		
+	<div class="pop-content twoLine">
+		<i class="icon-loginright"><!--[if lt IE 8]>√<![endif]--></i>
+        <p class="pop_info_show">已取消收藏<br><a href="http://www.smzdm.com/user/collection" class="a_small a_underline" target="_blank">去我的收藏夹 <span class="arrow">&gt;</span></a></p>
+	</div>
+	<!-- pop-content end -->		
+</div>
+<!-- pop nocollect end -->
+<div id="cover"></div>
+
+<input type="hidden" id="user_domain" name="user_domain" value="http://www.smzdm.com" />
+<div style="display: none;">
+<script>
+    var love_rating_status = 1;
+    var collect_status = 1;
+    var rating_status = 1;
+</script>
+</div>
+<div class="pop pop_tip tab_Submimt">
+    <div class="pop-title">
+        <div class="pop_name">小提示</div><i class="pop-close icon-cross-lighter"><!--[if lt IE 8]>x<![endif]--></i>
+    </div>
+
+    <div class="pop-content">
+        <div class="pop_info">
+            <p class="text"></p>
+            <p class="tab_btn">
+                <a href="javascript:void(0);" target="_blank" class="button button_red">确&nbsp;&nbsp;认</a>
+            </p>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+//baidu share
+window._bd_share_config = {
+	share : [{
+		"bdSize" : 16
+	}]
+}
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+//baidu share end
+</script>
+</body>
+</html>
